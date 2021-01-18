@@ -1,0 +1,17 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "To learn Testing",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Yagmur",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^87.0.5",
+    "geckodriver": "^1.21.1",
+    "nightwatch": "^1.5.1"
+  }
+}
